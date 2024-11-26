@@ -1,1 +1,28 @@
+Module 9 Resources
 
+Image file of your ERD.
+    EmployeeSQL> QuickDBD-Free Diagram.PNG
+
+Save .sql file of your table schemata.
+    EmployeeSQL> QuickDBD-Free Diagra.sql
+
+Create a .sql file of your queries.
+    EmployeeSQLL> KR_employee_db.sql
+
+Resources Used:
+Module_09-SQL
+1-Intro_to_SQL
+    01-Ins_Creating_Tables
+    04-Ins_Values_of_Uniques
+    06_Ins_Importing_Data
+    09_Ins_Joins
+2-Advance_SQL_Queries
+    05-Stu_Order_By
+    07-Stu_Subqueries
+3-Data_Modeling
+    03-Ins_Foreign_Keys
+    06-Stu_Data_Relationship
+CoPilot 
+    Used to check errors and correct coding
+
+    
